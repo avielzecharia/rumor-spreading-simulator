@@ -1,6 +1,6 @@
 import copy
 
-from rumor_spreading_simulator.engine.WorldBoard2D import WorldBoard2D
+from rumor_spreading_simulator.engine.world_board_2D import WorldBoard2D
 from rumor_spreading_simulator.engine.person import SkepticismLevel
 
 
