@@ -8,7 +8,7 @@ The population consists of 4 types of people:
 * S3 - upon rumor spread, tell all friends in next generation with probability of 1/3.
 * S4 - upon rumor spread, tell nobody in next generation.
 
-A person who spread a rumor in current generation will not be able to that for the next L generations.
+A person who spread a rumor in current generation will not be able to that for the next L ("cool down") generations.
 In addition, a person who get the rumor from more than 2 friends decrease the level of 
 skepticism by one (e.g. S2->S1) for the next generation only.
 
