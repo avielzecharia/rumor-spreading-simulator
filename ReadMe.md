@@ -27,9 +27,9 @@ rumor-sim-cli -h
 rumor-sim-cli -M 35 -L 4 -G 100 -R 0.4
 ```
 
-![stats](doc_img/cli.png "CLI")
+![cli](doc_img/cli.png "CLI")
 
-![stats](doc_img/cli_stats.png "CLI Stats")
+![cli_stats](doc_img/cli_stats.png "CLI Stats")
 
 ### STATS ###
 May be used for research purposes
@@ -47,11 +47,11 @@ May br used for visualization of the spreading process
 rumor-sim-gui
 ```
 
-![stats](doc_img/gui_menu.png "GUI Menu")
+![gui_menu](doc_img/gui_menu.png "GUI Menu")
 
-![stats](doc_img/gui.png "GUI")
+![gui](doc_img/gui.png "GUI")
 
-![stats](doc_img/gui_stats.png "GUI Stats")
+![gui_stats](doc_img/gui_stats.png "GUI Stats")
 
 ### python ###
 ```python
